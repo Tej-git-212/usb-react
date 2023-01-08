@@ -1,0 +1,13 @@
+.q-box {
+  font-size: small;
+  font-weight: 500;
+  margin-top: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid gainsboro;
+}
+.q-box img {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+  border-radius: 10px;
+}

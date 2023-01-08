@@ -1,0 +1,36 @@
+.upload-post {
+    width: 90%;
+}
+
+.upload-row1 {
+    margin-bottom: 15px;
+}
+
+
+.upload-row1 input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid gainsboro;
+}
+
+.upload-row2 {
+    margin-left: 50px;
+    justify-content: space-between;
+}
+
+.light-btn {
+    color: grey;
+    margin-right: 10px;
+    background-color: white;
+    border: 1px solid gainsboro;
+}
+
+.dark-btn {
+    color: white;
+    background-color: rgb(241, 63, 63);
+}
+
+.icon {
+    margin-right: 8px;
+}
